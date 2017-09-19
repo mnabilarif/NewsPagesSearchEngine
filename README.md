@@ -1,3 +1,5 @@
+NewsPagesSearchEngine
+
 Crawled the news websites CNN and USA Today using Java crawler4j library.
 
 Used Solr software to import the news web pages, implemented Page Rank algorithm using Networkx library in python.
